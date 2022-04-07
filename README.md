@@ -6,6 +6,8 @@
 - :mag_right: Heavily interested in learning more about Web Dev with an emphasis on UI/UX
   - Check out my in-progess website: <a href="">The Beeping Button</a>
 
+## My languages
+
 ## Contact Me
 <a href="https://linkedin.com/jack-michaels"><img src="./images/linkedin.png" width="50" height="40"></a>
 <a href="https://instagram.com/jackfm23"><img src="./images/instagram.jpeg" width="40" height="40"></a>
