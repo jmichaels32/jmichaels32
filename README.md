@@ -1,8 +1,9 @@
 <img src="./intro.gif" width="1000" height="270">
 
 ### Jack Michaels
-- Currently studying Computer Science with a concentration in Artificial Intelligence at Stanford University
-- Heavily interested in learning more about Web Dev with an emphasis on UI/UX
-- 
+- :books: Currently studying Computer Science with a concentration in Artificial Intelligence at Stanford University 
+- :mag_right: Heavily interested in learning more about Web Dev with an emphasis on UI/UX
+- :art: Intersection of Art/Design and Computer Science
 
 ## Contact Me
+<a href="https://linkedin.com/jack-michaels"></a><img src="./images/linkedin.png" width="50" height="40">
