@@ -1,10 +1,8 @@
 <img src="./intro.gif" width="1000" height="270">
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-jmichaels32/jmichaels32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Jack Michaels
+- Currently studying Computer Science with a concentration in Artificial Intelligence at Stanford University
+- Heavily interested in learning more about Web Dev with an emphasis on UI/UX
+- 
+
+## Contact Me
