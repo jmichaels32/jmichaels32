@@ -6,5 +6,5 @@
 - :art: Intersection of Art/Design and Computer Science
 
 ## Contact Me
-<a href="https://linkedin.com/jack-michaels"></a><img src="./images/linkedin.png" width="50" height="40">
-<a href="https://instagram.com/jackfm23"></a><img src="./images/instagram.jpeg" width="40" height="40">
+<a href="https://linkedin.com/jack-michaels"><img src="./images/linkedin.png" width="50" height="40"></a>
+<a href="https://instagram.com/jackfm23"><img src="./images/instagram.jpeg" width="40" height="40"></a>
