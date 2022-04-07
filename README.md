@@ -3,6 +3,7 @@
 ### Jack Michaels
 - :books: Currently studying Computer Science with a concentration in Artificial Intelligence at Stanford University 
 - :mag_right: Heavily interested in learning more about Web Dev with an emphasis on UI/UX
+- - Check out my in-progess website: The Beeping Button!
 - :art: Intersection of Art/Design and Computer Science
 
 ## Contact Me
