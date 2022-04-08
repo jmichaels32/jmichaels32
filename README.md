@@ -14,7 +14,8 @@
 <img src="./images/processing.png" width="60" height="60"> &nbsp;
 <img src="./images/tensorflow.png" width="60" height="60"> &nbsp;
 <img src="./images/react.png" width="60" height="60"> &nbsp;
-<img src="./images/matlab.jpeg" width="60" height="60">
+<img src="./images/matlab.jpeg" width="60" height="60"> &nbsp;
+<img src="./images/htmlcss.png" width="100" height="60">
 
 # Contact Me
 <a href="https://linkedin.com/jack-michaels"><img src="./images/linkedin.png" width="70" height="60"></a>
