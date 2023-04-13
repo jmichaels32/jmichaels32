@@ -14,4 +14,4 @@
 
 # Contact Me
 <a href="https://linkedin.com/jack-michaels"><img src="./images/linkedin.png" width="70" height="60"></a>
-<a href="https://instagram.com/jackfm23"><img src="./images/instagram.jpeg" width="60" height="60"></a>
+<a href="https://instagram.com/jackfm23"><img src="./images/instagram.svg.png" width="60" height="60"></a>
