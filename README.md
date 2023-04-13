@@ -1,10 +1,10 @@
 <img src="./intro.gif" width="1000" height="270">
 
 # About Me
-- :books: A student studying Computer Science with a concentration in Artificial Intelligence at Stanford University 
-- :art: Exploring the intersection of Art/Design and Computer Science
-- :mag_right: Heavily interested in learning more about Web Dev with an emphasis on UI/UX
-  - Check out my in-progess website: <a href="">The Beeping Button</a>
+- :books: Currently a student at Stanford University studying computer science with a concentration in Artificial Intelligence 
+- :flight_departure: Focusing on machine translation and time series driven models
+- :mag_right: Interested in learning more about website development as a conduit for some AI projects (and to improve my overall UI/UX ability)
+  - Check out my latest hobby project: [miniChess]("")
 
 ## My favorite languages
 <a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg.png" width="60" height="60"></a>
