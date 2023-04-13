@@ -8,8 +8,8 @@
 
 ## My favorite languages
 <a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg.png" width="60" height="60"></a>
-<a href="https://pytorch.org"><img src="./images/pytorch.svg.png" width="60" height="60"></a>
-<a href="https://react.dev"><img src="./images/reactjs.svg.png" width="60" height="60"></a>
+<a href="https://pytorch.org"><img src="./images/pytorch.svg.png" width="50" height="60"></a>
+<a href="https://react.dev"><img src="./images/reactjs.svg.png" width="67" height="60"></a>
 
 
 # Contact Me
