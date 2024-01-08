@@ -2,9 +2,10 @@
 
 # About Me
 - :books: Currently a student at Stanford University studying computer science with a concentration in Artificial Intelligence 
-- :flight_departure: Focusing on machine translation and time series driven models
-- :mag_right: Interested in learning more about website development as a conduit for some AI projects (and to improve my overall UI/UX ability)
-  - Check out my latest hobby project: [miniChess]("")
+- :flight_departure: Focusing on creative/novel machine learning architectures to solve relevant and complex issues with the goal of driving positive change to benefit the disadvantaged. 
+- :mag_right: Interested in learning varieties of deep architectures. Robotics, neuroscience, audio, vision, and speech are all within bounds.
+- :space_invader: Side projects for fun:
+  - [miniChess]("")
 
 ## My favorite languages
 <a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg.png" width="60" height="60"></a>
