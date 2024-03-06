@@ -2,7 +2,7 @@
 
 # About Me
 - :books: Currently a masters student at Stanford University studying computer science with a concentration in Artificial Intelligence.
-- :flight_departure: Focusing on creative/novel machine learning architectures to solve relevant and complex issues with the goal of driving positive change to benefit the disadvantaged. 
+- :flight_departure: Focusing on exploring generative machine learning with a special love for exploring novel architectures. 
 - :mag_right: Interested in learning varieties of deep architectures. Robotics, neuroscience, audio, vision, and speech are all within bounds.
 - :space_invader: Side projects for fun:
   - [miniChess]("")
