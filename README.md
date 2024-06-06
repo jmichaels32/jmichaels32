@@ -9,7 +9,7 @@
 - A nice quick look at the importance of non-linear activations when aligning with non-linear functions
   - [Colab](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
 - Some of my previous class projects!
-  - [CS231N]()
+  - [CS231N: Catching Fire: Predicting Wildfire Progress with Computer Vision]()
 
 ## My favorite languages
 <a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg.png" width="60" height="60"></a>
