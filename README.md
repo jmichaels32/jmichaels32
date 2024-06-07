@@ -9,8 +9,8 @@
 - A nice quick look at the importance of non-linear activations when aligning with non-linear functions
   - [Colab](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
 - Some of my previous class projects!
-  - [CS231N: Catching Fire: Predicting Wildfire Progress with Computer Vision]()
-  - [CS194W]()
+  - [CS231N: Catching Fire: Predicting Wildfire Progress with Computer Vision](./projects/cs231n.pdf)
+  - [CS194W: Hot Potato Workout App](https://github.com/jmichaels32/hotPotato)
 
 ## My favorite languages
 <a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg.png" width="60" height="60"></a>
