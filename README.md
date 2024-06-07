@@ -9,7 +9,7 @@
 - :desktop_computer: Website I built for Stanford IEEE
   - [Stanford IEEE](https://stanfordieee.github.io)
 - A nice quick look at the importance of non-linear activations when aligning with non-linear functions
-  - [Colab](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
+  - [Google Colab exploring sin function prediction](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
 - Some of my previous class projects!
   - [CS231N: Catching Fire: Predicting Wildfire Progress with Computer Vision](./projects/CS231N.pdf)
   - [CS224U: Comparing Fine-Tuning Objectives for Sentence Transformer Embeddings in Idiomatic Contexts](./projects/CS224U.pdf)
