@@ -10,6 +10,7 @@
   - [Colab](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
 - Some of my previous class projects!
   - [CS231N: Catching Fire: Predicting Wildfire Progress with Computer Vision]()
+  - [CS194W]()
 
 ## My favorite languages
 <a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg.png" width="60" height="60"></a>
