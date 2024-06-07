@@ -7,7 +7,7 @@
 - :space_invader: Side projects for fun:
   - [miniChess](https://github.com/jmichaels32/miniChess)
 - :desktop_computer: Website I built for Stanford IEEE
-  - [Stanford IEEE]()
+  - [Stanford IEEE](https://stanfordieee.github.io)
 - A nice quick look at the importance of non-linear activations when aligning with non-linear functions
   - [Colab](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
 - Some of my previous class projects!
