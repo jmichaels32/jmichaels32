@@ -6,7 +6,7 @@
 - :mag_right: Interested in learning varieties of deep architectures. Robotics, neuroscience, audio, vision, and speech are all within bounds.
 - :space_invader: Side projects for fun:
   - [miniChess](https://github.com/jmichaels32/miniChess)
-- :desktop_computer: Website for Stanford IEEE
+- :desktop_computer: Website I built for Stanford IEEE
   - [Stanford IEEE]()
 - A nice quick look at the importance of non-linear activations when aligning with non-linear functions
   - [Colab](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
