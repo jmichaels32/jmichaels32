@@ -11,6 +11,8 @@
 - A nice quick look at the importance of non-linear activations when aligning with non-linear functions
   - [Google Colab exploring sin function prediction](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
 - Some of my previous class projects!
+  - [CS234: Maintaining Plasticity in Dynamic Stationary Environments via Continual
+Reinforcement Learning](./projects/CS234.pdf)
   - [CS231N: Catching Fire: Predicting Wildfire Progress with Computer Vision](./projects/CS231N.pdf)
   - [CS224U: Comparing Fine-Tuning Objectives for Sentence Transformer Embeddings in Idiomatic Contexts](./projects/CS224U.pdf)
   - [CS279: Comparison of Modern Deep-Learning Protein Structure Prediction Software](./projects/CS279.pdf)
