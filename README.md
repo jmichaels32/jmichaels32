@@ -1,3 +1,5 @@
+# Make sure to check out the cool photos below!! 
+
 - Cool things at WindBorne I worked on
   - [WindBorne AI DA](https://windbornesystems.com/blog/windborne-ai-da)
   - [WindBorne WM6](https://windbornesystems.com/blog/introducing-wm-6)
@@ -24,9 +26,14 @@
 - A nice quick look at the importance of non-linear activations when aligning with non-linear functions
   - [Google Colab exploring sin function prediction](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
 
+## Contact Me 
 
-
-
-# Contact Me
 <a href="https://linkedin.com/jack-michaels"><img src="./images/linkedin.png" width="70" height="60"></a>
-<a href="https://pytorch.org"><img src="./images/pytorch.svg.png" width="50" height="60"></a>
+
+# Cool photos
+
+<img width="49%" alt="satwndd" src="https://github.com/user-attachments/assets/c34704c2-71c7-44a4-9f4e-52cc1889ccb9"/> 
+<img width="49%" alt="radiosonde_sincos_locality_spatial-y_32" src="https://github.com/user-attachments/assets/fe45b033-1cf6-4bf3-9297-dbe445dafff6" />
+<img width="49%" alt="step=02500_neovis_art" src="https://github.com/user-attachments/assets/318ef4e4-a94b-4ba2-9e62-6cd5c88ee342" />
+<img width="49%" alt="apr21_1bamua_neo_2023_2023021512_map" src="https://github.com/user-attachments/assets/996dff0b-f7e6-45c8-af94-1023c5831cf6" />
+
