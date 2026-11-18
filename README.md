@@ -1,9 +1,7 @@
-[WindBorne AI DA](https://windbornesystems.com/blog/windborne-ai-da)
-[WindBorne WM6](https://windbornesystems.com/blog/introducing-wm-6)
-[WindBorne WM3](https://arxiv.org/html/2503.22235v1)
-
-
-
+- Cool things at WindBorne I worked on
+  - [WindBorne AI DA](https://windbornesystems.com/blog/windborne-ai-da)
+  - [WindBorne WM6](https://windbornesystems.com/blog/introducing-wm-6)
+  - [WindBorne WM3](https://arxiv.org/html/2503.22235v1)
 - Some of my previous class projects!
   - [CS234: Maintaining Plasticity in Dynamic Stationary Environments via Continual Reinforcement Learning](./projects/CS234.pdf)
   - [CS231N: Catching Fire: Predicting Wildfire Progress with Computer Vision](./projects/CS231N.pdf)
