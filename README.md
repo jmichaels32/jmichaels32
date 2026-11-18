@@ -1,11 +1,4 @@
-<img src="./intro.gif" width="1000" height="270">
 
-- :space_invader: Side projects for fun:
-  - [miniChess](https://github.com/jmichaels32/miniChess)
-- :desktop_computer: Website I built for Stanford IEEE
-  - [Stanford IEEE](https://stanfordieee.github.io)
-- A nice quick look at the importance of non-linear activations when aligning with non-linear functions
-  - [Google Colab exploring sin function prediction](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
 - Some of my previous class projects!
   - [CS234: Maintaining Plasticity in Dynamic Stationary Environments via Continual Reinforcement Learning](./projects/CS234.pdf)
   - [CS231N: Catching Fire: Predicting Wildfire Progress with Computer Vision](./projects/CS231N.pdf)
@@ -21,12 +14,16 @@
   - [MATH120: Semidirect Product of Groups](./projects/MATH120.pdf)
   - [CS224G: Catapult](./projects/catapult.pdf)
   - [CS194W: Hot Potato Workout App](https://github.com/jmichaels32/hotPotato)
+- :space_invader: Side projects for fun:
+  - [miniChess](https://github.com/jmichaels32/miniChess)
+- :desktop_computer: Website I built for Stanford IEEE
+  - [Stanford IEEE](https://stanfordieee.github.io)
+- A nice quick look at the importance of non-linear activations when aligning with non-linear functions
+  - [Google Colab exploring sin function prediction](https://colab.research.google.com/drive/1on3fjyzP93tkpf2Gray2L6wYLQo5ivca?usp=sharing)
 
-## My favorite languages
-<a href="https://www.tensorflow.org"><img src="./images/tensorflow.svg.png" width="60" height="60"></a>
-<a href="https://pytorch.org"><img src="./images/pytorch.svg.png" width="50" height="60"></a>
-<a href="https://react.dev"><img src="./images/reactjs.svg.png" width="67" height="60"></a>
+
 
 
 # Contact Me
 <a href="https://linkedin.com/jack-michaels"><img src="./images/linkedin.png" width="70" height="60"></a>
+<a href="https://pytorch.org"><img src="./images/pytorch.svg.png" width="50" height="60"></a>
